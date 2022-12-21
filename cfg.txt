@@ -1,0 +1,4 @@
+E=A,B
+S-ASA|aB
+A-B|S
+B-b

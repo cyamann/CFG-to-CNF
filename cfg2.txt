@@ -1,0 +1,4 @@
+E=A,B
+S-ASB
+A-aAS|a|€
+B-SbS|A|bb
